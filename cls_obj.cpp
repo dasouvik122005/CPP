@@ -28,11 +28,14 @@ public:
 int main(){
     student s1, s2, s3;
     s1.setData ("Rahul",1,85.6);
-    s2.setData ("Ratul",2,89.6);
+    s2.setData ("Ratul",2,89.8);
+    s3.setData ("Arka",3,90.3);
 
     s1.displayData();
     cout << endl;
     s2.displayData();
+    cout << endl;
+    s3.displayData();
 
     return 0;
 }
