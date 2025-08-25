@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// Write a C++ program to generate an electricity Bill
 #include <iostream>
 using namespace std;
 int main() {
@@ -26,4 +26,5 @@ int main() {
     cout << "Total bill " << sum;
     
     return 0;
+
 }
